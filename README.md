@@ -1,6 +1,6 @@
 # exercicios_logica
 
-## Porgutgol
+## Portugol
 - Lista de exercicios basicos contendo 10 exercicios
 - Lista de exercicios intermediarios contendo 10 exercicios
 
